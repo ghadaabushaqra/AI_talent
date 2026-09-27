@@ -1,0 +1,65 @@
+{
+  "label_provenance": {
+    "type": "synthetic_proxy",
+    "human_ground_truth": false,
+    "warning": "Assignment outcomes were generated from documented CV signals and deterministic noise; metrics measure pipeline behavior, not real hiring validity."
+  },
+  "dataset": {
+    "labelled_profiles": 962,
+    "train_rows": 721,
+    "test_rows": 241,
+    "class_balance": {
+      "successful": 146,
+      "not_successful": 816
+    },
+    "split": "75/25 stratified, random_state=7"
+  },
+  "features": [
+    "documented_skill_count",
+    "documented_experience_years",
+    "documented_project_count",
+    "documented_education_count",
+    "documented_certification_count"
+  ],
+  "classifier": {
+    "model": "Sigmoid-calibrated StandardScaler + LogisticRegression",
+    "accuracy": 0.917,
+    "precision": 0.793,
+    "recall": 0.622,
+    "f1": 0.697,
+    "confusion_matrix": [
+      [
+        198,
+        6
+      ],
+      [
+        14,
+        23
+      ]
+    ],
+    "roc_auc": 0.962,
+    "brier_score": 0.057
+  },
+  "deterministic_baseline": {
+    "model": "documented-signal threshold",
+    "accuracy": 0.921,
+    "precision": 0.8,
+    "recall": 0.649,
+    "f1": 0.716,
+    "confusion_matrix": [
+      [
+        198,
+        6
+      ],
+      [
+        13,
+        24
+      ]
+    ]
+  },
+  "matching_evaluation": {
+    "status": "pending_human_review",
+    "note": "Precision@K/NDCG for candidate ranking requires job-specific relevance judgements from an HR reviewer; no labels are fabricated."
+  },
+  "leakage_review": "Candidate ID, name, source category, availability, and weighted-match score are excluded from ML features."
+}

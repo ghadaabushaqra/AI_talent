@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ROLE-001",
+    "name": "Senior Data Engineer",
+    "required_skills": [
+      "Python",
+      "AWS",
+      "SQL",
+      "Data Engineering",
+      "Docker"
+    ],
+    "minimum_experience": 4
+  },
+  {
+    "id": "ROLE-002",
+    "name": "NLP Engineer",
+    "required_skills": [
+      "Python",
+      "NLP",
+      "RAG",
+      "FastAPI"
+    ],
+    "minimum_experience": 3
+  },
+  {
+    "id": "ROLE-003",
+    "name": "Cloud DevOps Engineer",
+    "required_skills": [
+      "AWS",
+      "Docker",
+      "Git",
+      "Python"
+    ],
+    "minimum_experience": 3
+  },
+  {
+    "id": "ROLE-004",
+    "name": "Data Analyst",
+    "required_skills": [
+      "SQL",
+      "Python",
+      "Power BI",
+      "Tableau"
+    ],
+    "minimum_experience": 2
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "PRJ-101",
+    "name": "Knowledge Navigator",
+    "duration_months": 3,
+    "team_size": 3,
+    "required_skills": [
+      "Java",
+      "Data Engineering",
+      "SQL",
+      "Azure"
+    ],
+    "description": "Knowledge Navigator delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-102",
+    "name": "Data Platform Modernization",
+    "duration_months": 4,
+    "team_size": 4,
+    "required_skills": [
+      "React",
+      "FastAPI",
+      "Machine Learning",
+      "RAG"
+    ],
+    "description": "Data Platform Modernization delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-103",
+    "name": "Customer Insight Studio",
+    "duration_months": 5,
+    "team_size": 5,
+    "required_skills": [
+      "AWS",
+      "Docker",
+      "Power BI",
+      "Azure"
+    ],
+    "description": "Customer Insight Studio delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-104",
+    "name": "Cloud Migration",
+    "duration_months": 6,
+    "team_size": 3,
+    "required_skills": [
+      "Tableau",
+      "Docker",
+      "AWS",
+      "FastAPI"
+    ],
+    "description": "Cloud Migration delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-105",
+    "name": "Talent Analytics",
+    "duration_months": 7,
+    "team_size": 4,
+    "required_skills": [
+      "Machine Learning",
+      "Python",
+      "RAG",
+      "Spark"
+    ],
+    "description": "Talent Analytics delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-106",
+    "name": "Fraud Detection",
+    "duration_months": 8,
+    "team_size": 5,
+    "required_skills": [
+      "Tableau",
+      "NLP",
+      "Power BI",
+      "Data Engineering"
+    ],
+    "description": "Fraud Detection delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-107",
+    "name": "Document Intelligence",
+    "duration_months": 3,
+    "team_size": 3,
+    "required_skills": [
+      "Power BI",
+      "RAG",
+      "Tableau",
+      "SQL"
+    ],
+    "description": "Document Intelligence delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-108",
+    "name": "Service Portal",
+    "duration_months": 4,
+    "team_size": 4,
+    "required_skills": [
+      "Tableau",
+      "SQL",
+      "Power BI",
+      "Data Engineering"
+    ],
+    "description": "Service Portal delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-109",
+    "name": "MLOps Foundation",
+    "duration_months": 5,
+    "team_size": 5,
+    "required_skills": [
+      "Tableau",
+      "Spark",
+      "Data Engineering",
+      "Java"
+    ],
+    "description": "MLOps Foundation delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-110",
+    "name": "Sales Forecasting",
+    "duration_months": 6,
+    "team_size": 3,
+    "required_skills": [
+      "Java",
+      "Docker",
+      "RAG",
+      "NLP"
+    ],
+    "description": "Sales Forecasting delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-111",
+    "name": "Quality Dashboard",
+    "duration_months": 7,
+    "team_size": 4,
+    "required_skills": [
+      "React",
+      "Azure",
+      "Power BI",
+      "FastAPI"
+    ],
+    "description": "Quality Dashboard delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-112",
+    "name": "Customer Support AI",
+    "duration_months": 8,
+    "team_size": 5,
+    "required_skills": [
+      "Azure",
+      "Power BI",
+      "Spark",
+      "FastAPI"
+    ],
+    "description": "Customer Support AI delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-113",
+    "name": "Security Automation",
+    "duration_months": 3,
+    "team_size": 3,
+    "required_skills": [
+      "AWS",
+      "FastAPI",
+      "Docker",
+      "React"
+    ],
+    "description": "Security Automation delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-114",
+    "name": "Mobile Platform",
+    "duration_months": 4,
+    "team_size": 4,
+    "required_skills": [
+      "Data Engineering",
+      "AWS",
+      "SQL",
+      "Git"
+    ],
+    "description": "Mobile Platform delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-115",
+    "name": "API Gateway",
+    "duration_months": 5,
+    "team_size": 5,
+    "required_skills": [
+      "Power BI",
+      "Docker",
+      "Spark",
+      "React"
+    ],
+    "description": "API Gateway delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-116",
+    "name": "Data Governance",
+    "duration_months": 6,
+    "team_size": 3,
+    "required_skills": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "Docker"
+    ],
+    "description": "Data Governance delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-117",
+    "name": "Learning Hub",
+    "duration_months": 7,
+    "team_size": 4,
+    "required_skills": [
+      "Java",
+      "React",
+      "SQL",
+      "Git"
+    ],
+    "description": "Learning Hub delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-118",
+    "name": "Operations Console",
+    "duration_months": 8,
+    "team_size": 5,
+    "required_skills": [
+      "Machine Learning",
+      "Tableau",
+      "Git",
+      "Python"
+    ],
+    "description": "Operations Console delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-119",
+    "name": "Insight Lakehouse",
+    "duration_months": 3,
+    "team_size": 3,
+    "required_skills": [
+      "Machine Learning",
+      "Spark",
+      "Git",
+      "Data Engineering"
+    ],
+    "description": "Insight Lakehouse delivery brief grounded in the synthetic project catalog."
+  },
+  {
+    "id": "PRJ-120",
+    "name": "Search Modernization",
+    "duration_months": 4,
+    "team_size": 4,
+    "required_skills": [
+      "Spark",
+      "React",
+      "Tableau",
+      "FastAPI"
+    ],
+    "description": "Search Modernization delivery brief grounded in the synthetic project catalog."
+  }
+]

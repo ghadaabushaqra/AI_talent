@@ -1,0 +1,7 @@
+@media(max-width:700px){
+  nav{display:flex!important;position:sticky;top:0;width:100%;min-height:auto;padding:9px;gap:6px;overflow-x:auto;z-index:15;box-shadow:0 4px 18px #173b3230}
+  nav b,.nav-divider{display:none}
+  nav button{flex:0 0 auto;padding:9px 11px;white-space:nowrap;font-size:11px}
+  main{margin-left:0!important;padding:18px 12px!important}
+  section{padding:22px 16px}
+}

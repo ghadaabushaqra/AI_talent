@@ -1,0 +1,4812 @@
+[
+  {
+    "candidate_id": "C0001",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0002",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0003",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0004",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0005",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0006",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0007",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0008",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0009",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0010",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0011",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0012",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0013",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0014",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0015",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0016",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0017",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0018",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0019",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0020",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0021",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0022",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0023",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0024",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0025",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0026",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0027",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0028",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0029",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0030",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0031",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0032",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0033",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0034",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0035",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0036",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0037",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0038",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0039",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0040",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0041",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0042",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0043",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0044",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0045",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0046",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0047",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0048",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0049",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0050",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0051",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0052",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0053",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0054",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0055",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0056",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0057",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0058",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0059",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0060",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0061",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0062",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0063",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0064",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0065",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0066",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0067",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0068",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0069",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0070",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0071",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0072",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0073",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0074",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0075",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0076",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0077",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0078",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0079",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0080",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0081",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0082",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0083",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0084",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0085",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0086",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0087",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0088",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0089",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0090",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0091",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0092",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0093",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0094",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0095",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0096",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0097",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0098",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0099",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0100",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0101",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0102",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0103",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0104",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0105",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0106",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0107",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0108",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0109",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0110",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0111",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0112",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0113",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0114",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0115",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0116",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0117",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0118",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0119",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0120",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0121",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0122",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0123",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0124",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0125",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0126",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0127",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0128",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0129",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0130",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0131",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0132",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0133",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0134",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0135",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0136",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0137",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0138",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0139",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0140",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0141",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0142",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0143",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0144",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0145",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0146",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0147",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0148",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0149",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0150",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0151",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0152",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0153",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0154",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0155",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0156",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0157",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0158",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0159",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0160",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0161",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0162",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0163",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0164",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0165",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0166",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0167",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0168",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0169",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0170",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0171",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0172",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0173",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0174",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0175",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0176",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0177",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0178",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0179",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0180",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0181",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0182",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0183",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0184",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0185",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0186",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0187",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0188",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0189",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0190",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0191",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0192",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0193",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0194",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0195",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0196",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0197",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0198",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0199",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0200",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0201",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0202",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0203",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0204",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0205",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0206",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0207",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0208",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0209",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0210",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0211",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0212",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0213",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0214",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0215",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0216",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0217",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0218",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0219",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0220",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0221",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0222",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0223",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0224",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0225",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0226",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0227",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0228",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0229",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0230",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0231",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0232",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0233",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0234",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0235",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0236",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0237",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0238",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0239",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0240",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0241",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0242",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0243",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0244",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0245",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0246",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0247",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0248",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0249",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0250",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0251",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0252",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0253",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0254",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0255",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0256",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0257",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0258",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0259",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0260",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0261",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0262",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0263",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0264",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0265",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0266",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0267",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0268",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0269",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0270",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0271",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0272",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0273",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0274",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0275",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0276",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0277",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0278",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0279",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0280",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0281",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0282",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0283",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0284",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0285",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0286",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0287",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0288",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0289",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0290",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0291",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0292",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0293",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0294",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0295",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0296",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0297",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0298",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0299",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0300",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0301",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0302",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0303",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0304",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0305",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0306",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0307",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0308",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0309",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0310",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0311",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0312",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0313",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0314",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0315",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0316",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0317",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0318",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0319",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0320",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0321",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0322",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0323",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0324",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0325",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0326",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0327",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0328",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0329",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0330",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0331",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0332",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0333",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0334",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0335",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0336",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0337",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0338",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0339",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0340",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0341",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0342",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0343",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0344",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0345",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0346",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0347",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0348",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0349",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0350",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0351",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0352",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0353",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0354",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0355",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0356",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0357",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0358",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0359",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0360",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0361",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0362",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0363",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0364",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0365",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0366",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0367",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0368",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0369",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0370",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0371",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0372",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0373",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0374",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0375",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0376",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0377",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0378",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0379",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0380",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0381",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0382",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0383",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0384",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0385",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0386",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0387",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0388",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0389",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0390",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0391",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0392",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0393",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0394",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0395",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0396",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0397",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0398",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0399",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0400",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0401",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0402",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0403",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0404",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0405",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0406",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0407",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0408",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0409",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0410",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0411",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0412",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0413",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0414",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0415",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0416",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0417",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0418",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0419",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0420",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0421",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0422",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0423",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0424",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0425",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0426",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0427",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0428",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0429",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0430",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0431",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0432",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0433",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0434",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0435",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0436",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0437",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0438",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0439",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0440",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0441",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0442",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0443",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0444",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0445",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0446",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0447",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0448",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0449",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0450",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0451",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0452",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0453",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0454",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0455",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0456",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0457",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0458",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0459",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0460",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0461",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0462",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0463",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0464",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0465",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0466",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0467",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0468",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0469",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0470",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0471",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0472",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0473",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0474",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0475",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0476",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0477",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0478",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0479",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0480",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0481",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0482",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0483",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0484",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0485",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0486",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0487",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0488",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0489",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0490",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0491",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0492",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0493",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0494",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0495",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0496",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0497",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0498",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0499",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0500",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0501",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0502",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0503",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0504",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0505",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0506",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0507",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0508",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0509",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0510",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0511",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0512",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0513",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0514",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0515",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0516",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0517",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0518",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0519",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0520",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0521",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0522",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0523",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0524",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0525",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0526",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0527",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0528",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0529",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0530",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0531",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0532",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0533",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0534",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0535",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0536",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0537",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0538",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0539",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0540",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0541",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0542",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0543",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0544",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0545",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0546",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0547",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0548",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0549",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0550",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0551",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0552",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0553",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0554",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0555",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0556",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0557",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0558",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0559",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0560",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0561",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0562",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0563",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0564",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0565",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0566",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0567",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0568",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0569",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0570",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0571",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0572",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0573",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0574",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0575",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0576",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0577",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0578",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0579",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0580",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0581",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0582",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0583",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0584",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0585",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0586",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0587",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0588",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0589",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0590",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0591",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0592",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0593",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0594",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0595",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0596",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0597",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0598",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0599",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0600",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0601",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0602",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0603",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0604",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0605",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0606",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0607",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0608",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0609",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0610",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0611",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0612",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0613",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0614",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0615",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0616",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0617",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0618",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0619",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0620",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0621",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0622",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0623",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0624",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0625",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0626",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0627",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0628",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0629",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0630",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0631",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0632",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0633",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0634",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0635",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0636",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0637",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0638",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0639",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0640",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0641",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0642",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0643",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0644",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0645",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0646",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0647",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0648",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0649",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0650",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0651",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0652",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0653",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0654",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0655",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0656",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0657",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0658",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0659",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0660",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0661",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0662",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0663",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0664",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0665",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0666",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0667",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0668",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0669",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0670",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0671",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0672",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0673",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0674",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0675",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0676",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0677",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0678",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0679",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0680",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0681",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0682",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0683",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0684",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0685",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0686",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0687",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0688",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0689",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0690",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0691",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0692",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0693",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0694",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0695",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0696",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0697",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0698",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0699",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0700",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0701",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0702",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0703",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0704",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0705",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0706",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0707",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0708",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0709",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0710",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0711",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0712",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0713",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0714",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0715",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0716",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0717",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0718",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0719",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0720",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0721",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0722",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0723",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0724",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0725",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0726",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0727",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0728",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0729",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0730",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0731",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0732",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0733",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0734",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0735",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0736",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0737",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0738",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0739",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0740",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0741",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0742",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0743",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0744",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0745",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0746",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0747",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0748",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0749",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0750",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0751",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0752",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0753",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0754",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0755",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0756",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0757",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0758",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0759",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0760",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0761",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0762",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0763",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0764",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0765",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0766",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0767",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0768",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0769",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0770",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0771",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0772",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0773",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0774",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0775",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0776",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0777",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0778",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0779",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0780",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0781",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0782",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0783",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0784",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0785",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0786",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0787",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0788",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0789",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0790",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0791",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0792",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0793",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0794",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0795",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0796",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0797",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0798",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0799",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0800",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0801",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0802",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0803",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0804",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0805",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0806",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0807",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0808",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0809",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0810",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0811",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0812",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0813",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0814",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0815",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0816",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0817",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0818",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0819",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0820",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0821",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0822",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0823",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0824",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0825",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0826",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0827",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0828",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0829",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0830",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0831",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0832",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0833",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0834",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0835",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0836",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0837",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0838",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0839",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0840",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0841",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0842",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0843",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0844",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0845",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0846",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0847",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0848",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0849",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0850",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0851",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0852",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0853",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0854",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0855",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0856",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0857",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0858",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0859",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0860",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0861",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0862",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0863",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0864",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0865",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0866",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0867",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0868",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0869",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0870",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0871",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0872",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0873",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0874",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0875",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0876",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0877",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0878",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0879",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0880",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0881",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0882",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0883",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0884",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0885",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0886",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0887",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0888",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0889",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0890",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0891",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0892",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0893",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0894",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0895",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0896",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0897",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0898",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0899",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0900",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0901",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0902",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0903",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0904",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0905",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0906",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0907",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0908",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0909",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0910",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0911",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0912",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0913",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0914",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0915",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0916",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0917",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0918",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0919",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0920",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0921",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0922",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0923",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0924",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0925",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0926",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0927",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0928",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0929",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0930",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0931",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0932",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0933",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0934",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0935",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0936",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0937",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0938",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0939",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0940",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0941",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0942",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0943",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0944",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0945",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0946",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0947",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0948",
+    "assignment_success": 1,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0949",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0950",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0951",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0952",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0953",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0954",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0955",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0956",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0957",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0958",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0959",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0960",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0961",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  },
+  {
+    "candidate_id": "C0962",
+    "assignment_success": 0,
+    "signal": "documented skills, experience, project evidence, and deterministic noise"
+  }
+]

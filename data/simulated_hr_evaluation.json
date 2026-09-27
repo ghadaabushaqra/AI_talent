@@ -1,0 +1,644 @@
+{
+  "provenance": {
+    "reviewer_type": "AI-simulated HR reviewer",
+    "human_ground_truth": false,
+    "generated_at": "2026-09-24T12:29:35.372857+00:00",
+    "required_disclosure": "These labels were produced by an AI applying a disclosed HR screening rubric; they are demonstration evidence, not independent human validation."
+  },
+  "rubric": {
+    "relevant": "All required skills are documented and documented experience meets the minimum.",
+    "not_relevant": "At least one hard skill is missing or documented experience is below the minimum.",
+    "insufficient_evidence": "The CV does not contain enough evidence; this is not converted to a negative label.",
+    "excluded_inputs": [
+      "weighted match score",
+      "ML success probability",
+      "candidate name"
+    ]
+  },
+  "cases": [
+    {
+      "case_id": "SIM-HR-001",
+      "role": "Senior Data Engineer",
+      "required_skills": [
+        "Python",
+        "AWS",
+        "SQL"
+      ],
+      "minimum_experience_years": 4,
+      "top_k": 3,
+      "job_brief": "Find the top 10 candidates for a Senior Data Engineer requiring Python, AWS, SQL. Minimum 4 years experience.",
+      "judgements": [
+        {
+          "rank": 1,
+          "candidate_id": "C0605",
+          "decision": "relevant",
+          "relevance": 1,
+          "reason": "All 3 required skills and 10.0 documented years meet the hard requirements.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python",
+              "SQL"
+            ],
+            "missing_required_skills": [],
+            "experience_years": 10.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 605"
+        },
+        {
+          "rank": 2,
+          "candidate_id": "C0631",
+          "decision": "relevant",
+          "relevance": 1,
+          "reason": "All 3 required skills and 8.0 documented years meet the hard requirements.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python",
+              "SQL"
+            ],
+            "missing_required_skills": [],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 631"
+        },
+        {
+          "rank": 3,
+          "candidate_id": "C0634",
+          "decision": "relevant",
+          "relevance": 1,
+          "reason": "All 3 required skills and 8.0 documented years meet the hard requirements.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python",
+              "SQL"
+            ],
+            "missing_required_skills": [],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 634"
+        },
+        {
+          "rank": 4,
+          "candidate_id": "C0637",
+          "decision": "relevant",
+          "relevance": 1,
+          "reason": "All 3 required skills and 8.0 documented years meet the hard requirements.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python",
+              "SQL"
+            ],
+            "missing_required_skills": [],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 637"
+        },
+        {
+          "rank": 5,
+          "candidate_id": "C0640",
+          "decision": "relevant",
+          "relevance": 1,
+          "reason": "All 3 required skills and 8.0 documented years meet the hard requirements.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python",
+              "SQL"
+            ],
+            "missing_required_skills": [],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 640"
+        },
+        {
+          "rank": 6,
+          "candidate_id": "C0643",
+          "decision": "relevant",
+          "relevance": 1,
+          "reason": "All 3 required skills and 8.0 documented years meet the hard requirements.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python",
+              "SQL"
+            ],
+            "missing_required_skills": [],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 643"
+        },
+        {
+          "rank": 7,
+          "candidate_id": "C0646",
+          "decision": "relevant",
+          "relevance": 1,
+          "reason": "All 3 required skills and 8.0 documented years meet the hard requirements.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python",
+              "SQL"
+            ],
+            "missing_required_skills": [],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 646"
+        },
+        {
+          "rank": 8,
+          "candidate_id": "C0649",
+          "decision": "relevant",
+          "relevance": 1,
+          "reason": "All 3 required skills and 8.0 documented years meet the hard requirements.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python",
+              "SQL"
+            ],
+            "missing_required_skills": [],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 649"
+        },
+        {
+          "rank": 9,
+          "candidate_id": "C0652",
+          "decision": "relevant",
+          "relevance": 1,
+          "reason": "All 3 required skills and 8.0 documented years meet the hard requirements.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python",
+              "SQL"
+            ],
+            "missing_required_skills": [],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 652"
+        },
+        {
+          "rank": 10,
+          "candidate_id": "C0600",
+          "decision": "relevant",
+          "relevance": 1,
+          "reason": "All 3 required skills and 8.0 documented years meet the hard requirements.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python",
+              "SQL"
+            ],
+            "missing_required_skills": [],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 600"
+        }
+      ],
+      "metrics": {
+        "precision@3": 1.0,
+        "ndcg@3": 1.0,
+        "assessed_at_k": 3,
+        "ranking_metric_status": "calculated"
+      }
+    },
+    {
+      "case_id": "SIM-HR-002",
+      "role": "NLP Engineer",
+      "required_skills": [
+        "Python",
+        "NLP",
+        "AWS"
+      ],
+      "minimum_experience_years": 3,
+      "top_k": 3,
+      "job_brief": "Find the top 10 candidates for a NLP Engineer requiring Python, NLP, AWS. Minimum 3 years experience.",
+      "judgements": [
+        {
+          "rank": 1,
+          "candidate_id": "C0010",
+          "decision": "relevant",
+          "relevance": 1,
+          "reason": "All 3 required skills and 3.0 documented years meet the hard requirements.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "NLP",
+              "Python"
+            ],
+            "missing_required_skills": [],
+            "experience_years": 3.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 10"
+        },
+        {
+          "rank": 2,
+          "candidate_id": "C0020",
+          "decision": "relevant",
+          "relevance": 1,
+          "reason": "All 3 required skills and 3.0 documented years meet the hard requirements.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "NLP",
+              "Python"
+            ],
+            "missing_required_skills": [],
+            "experience_years": 3.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 20"
+        },
+        {
+          "rank": 3,
+          "candidate_id": "C0030",
+          "decision": "relevant",
+          "relevance": 1,
+          "reason": "All 3 required skills and 3.0 documented years meet the hard requirements.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "NLP",
+              "Python"
+            ],
+            "missing_required_skills": [],
+            "experience_years": 3.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 30"
+        },
+        {
+          "rank": 4,
+          "candidate_id": "C0040",
+          "decision": "relevant",
+          "relevance": 1,
+          "reason": "All 3 required skills and 3.0 documented years meet the hard requirements.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "NLP",
+              "Python"
+            ],
+            "missing_required_skills": [],
+            "experience_years": 3.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 40"
+        },
+        {
+          "rank": 5,
+          "candidate_id": "C0605",
+          "decision": "not_relevant",
+          "relevance": 0,
+          "reason": "Missing required skills: NLP.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python"
+            ],
+            "missing_required_skills": [
+              "NLP"
+            ],
+            "experience_years": 10.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 605"
+        },
+        {
+          "rank": 6,
+          "candidate_id": "C0631",
+          "decision": "not_relevant",
+          "relevance": 0,
+          "reason": "Missing required skills: NLP.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python"
+            ],
+            "missing_required_skills": [
+              "NLP"
+            ],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 631"
+        },
+        {
+          "rank": 7,
+          "candidate_id": "C0634",
+          "decision": "not_relevant",
+          "relevance": 0,
+          "reason": "Missing required skills: NLP.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python"
+            ],
+            "missing_required_skills": [
+              "NLP"
+            ],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 634"
+        },
+        {
+          "rank": 8,
+          "candidate_id": "C0637",
+          "decision": "not_relevant",
+          "relevance": 0,
+          "reason": "Missing required skills: NLP.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python"
+            ],
+            "missing_required_skills": [
+              "NLP"
+            ],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 637"
+        },
+        {
+          "rank": 9,
+          "candidate_id": "C0640",
+          "decision": "not_relevant",
+          "relevance": 0,
+          "reason": "Missing required skills: NLP.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python"
+            ],
+            "missing_required_skills": [
+              "NLP"
+            ],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 640"
+        },
+        {
+          "rank": 10,
+          "candidate_id": "C0643",
+          "decision": "not_relevant",
+          "relevance": 0,
+          "reason": "Missing required skills: NLP.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python"
+            ],
+            "missing_required_skills": [
+              "NLP"
+            ],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 643"
+        }
+      ],
+      "metrics": {
+        "precision@3": 1.0,
+        "ndcg@3": 1.0,
+        "assessed_at_k": 3,
+        "ranking_metric_status": "calculated"
+      }
+    },
+    {
+      "case_id": "SIM-HR-003",
+      "role": "Cloud DevOps Engineer",
+      "required_skills": [
+        "AWS",
+        "Docker",
+        "Python"
+      ],
+      "minimum_experience_years": 3,
+      "top_k": 3,
+      "job_brief": "Find the top 10 candidates for a Cloud DevOps Engineer requiring AWS, Docker, Python. Minimum 3 years experience.",
+      "judgements": [
+        {
+          "rank": 1,
+          "candidate_id": "C0605",
+          "decision": "not_relevant",
+          "relevance": 0,
+          "reason": "Missing required skills: Docker.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python"
+            ],
+            "missing_required_skills": [
+              "Docker"
+            ],
+            "experience_years": 10.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 605"
+        },
+        {
+          "rank": 2,
+          "candidate_id": "C0010",
+          "decision": "not_relevant",
+          "relevance": 0,
+          "reason": "Missing required skills: Docker.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python"
+            ],
+            "missing_required_skills": [
+              "Docker"
+            ],
+            "experience_years": 3.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 10"
+        },
+        {
+          "rank": 3,
+          "candidate_id": "C0020",
+          "decision": "not_relevant",
+          "relevance": 0,
+          "reason": "Missing required skills: Docker.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python"
+            ],
+            "missing_required_skills": [
+              "Docker"
+            ],
+            "experience_years": 3.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 20"
+        },
+        {
+          "rank": 4,
+          "candidate_id": "C0030",
+          "decision": "not_relevant",
+          "relevance": 0,
+          "reason": "Missing required skills: Docker.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python"
+            ],
+            "missing_required_skills": [
+              "Docker"
+            ],
+            "experience_years": 3.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 30"
+        },
+        {
+          "rank": 5,
+          "candidate_id": "C0040",
+          "decision": "not_relevant",
+          "relevance": 0,
+          "reason": "Missing required skills: Docker.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python"
+            ],
+            "missing_required_skills": [
+              "Docker"
+            ],
+            "experience_years": 3.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 40"
+        },
+        {
+          "rank": 6,
+          "candidate_id": "C0631",
+          "decision": "not_relevant",
+          "relevance": 0,
+          "reason": "Missing required skills: Docker.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python"
+            ],
+            "missing_required_skills": [
+              "Docker"
+            ],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 631"
+        },
+        {
+          "rank": 7,
+          "candidate_id": "C0634",
+          "decision": "not_relevant",
+          "relevance": 0,
+          "reason": "Missing required skills: Docker.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python"
+            ],
+            "missing_required_skills": [
+              "Docker"
+            ],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 634"
+        },
+        {
+          "rank": 8,
+          "candidate_id": "C0637",
+          "decision": "not_relevant",
+          "relevance": 0,
+          "reason": "Missing required skills: Docker.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python"
+            ],
+            "missing_required_skills": [
+              "Docker"
+            ],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 637"
+        },
+        {
+          "rank": 9,
+          "candidate_id": "C0640",
+          "decision": "not_relevant",
+          "relevance": 0,
+          "reason": "Missing required skills: Docker.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python"
+            ],
+            "missing_required_skills": [
+              "Docker"
+            ],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 640"
+        },
+        {
+          "rank": 10,
+          "candidate_id": "C0643",
+          "decision": "not_relevant",
+          "relevance": 0,
+          "reason": "Missing required skills: Docker.",
+          "documented_facts": {
+            "matched_required_skills": [
+              "AWS",
+              "Python"
+            ],
+            "missing_required_skills": [
+              "Docker"
+            ],
+            "experience_years": 8.0,
+            "project_status": "documented"
+          },
+          "source_reference": "Resume dataset record 643"
+        }
+      ],
+      "metrics": {
+        "precision@3": 0.0,
+        "ndcg@3": null,
+        "assessed_at_k": 3,
+        "ranking_metric_status": "not_applicable_no_relevant_candidate_in_reviewed_set"
+      }
+    }
+  ],
+  "summary": {
+    "cases": 3,
+    "judgements": 30,
+    "mean_precision_at_3": 0.667,
+    "mean_ndcg_at_3_on_evaluable_cases": 1.0,
+    "evaluable_ndcg_cases": 2,
+    "no_relevant_candidate_cases": 1
+  }
+}

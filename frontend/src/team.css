@@ -1,0 +1,22 @@
+.coverage-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 8px;
+}
+
+.coverage-grid div {
+  display: grid;
+  gap: 4px;
+  border: 1px solid #e4ebe4;
+  border-radius: 6px;
+  padding: 10px;
+}
+
+.coverage-grid span {
+  color: #197157;
+  font-weight: 800;
+}
+
+.coverage-grid small {
+  color: #66786e;
+}

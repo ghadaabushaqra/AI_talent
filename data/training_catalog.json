@@ -1,0 +1,227 @@
+[
+  {
+    "id": "TRN-01",
+    "title": "Applied Python Foundations",
+    "skill": "Python",
+    "duration_hours": 12,
+    "url": "https://docs.python.org/3/tutorial/",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-02",
+    "title": "Applied SQL Foundations",
+    "skill": "SQL",
+    "duration_hours": 16,
+    "url": "https://www.postgresql.org/docs/current/tutorial.html",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-03",
+    "title": "Applied AWS Foundations",
+    "skill": "AWS",
+    "duration_hours": 20,
+    "url": "https://skillbuilder.aws/",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-04",
+    "title": "Applied Machine Learning Foundations",
+    "skill": "Machine Learning",
+    "duration_hours": 24,
+    "url": "https://scikit-learn.org/stable/getting_started.html",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-05",
+    "title": "Applied NLP Foundations",
+    "skill": "NLP",
+    "duration_hours": 12,
+    "url": "https://huggingface.co/learn/nlp-course/chapter1/1",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-06",
+    "title": "Applied RAG Foundations",
+    "skill": "RAG",
+    "duration_hours": 16,
+    "url": "https://python.langchain.com/docs/tutorials/rag/",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-07",
+    "title": "Applied Docker Foundations",
+    "skill": "Docker",
+    "duration_hours": 20,
+    "url": "https://docs.docker.com/get-started/",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-08",
+    "title": "Applied FastAPI Foundations",
+    "skill": "FastAPI",
+    "duration_hours": 24,
+    "url": "https://fastapi.tiangolo.com/tutorial/",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-09",
+    "title": "Applied React Foundations",
+    "skill": "React",
+    "duration_hours": 12,
+    "url": "https://react.dev/learn",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-10",
+    "title": "Applied Data Engineering Foundations",
+    "skill": "Data Engineering",
+    "duration_hours": 16,
+    "url": "https://learn.microsoft.com/en-us/training/career-paths/data-engineer",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-11",
+    "title": "Applied Spark Foundations",
+    "skill": "Spark",
+    "duration_hours": 20,
+    "url": "https://spark.apache.org/docs/latest/quick-start.html",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-12",
+    "title": "Applied Power BI Foundations",
+    "skill": "Power BI",
+    "duration_hours": 24,
+    "url": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi/",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-13",
+    "title": "Applied Java Foundations",
+    "skill": "Java",
+    "duration_hours": 12,
+    "url": "https://dev.java/learn/",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-14",
+    "title": "Applied Azure Foundations",
+    "skill": "Azure",
+    "duration_hours": 16,
+    "url": "https://learn.microsoft.com/en-us/training/azure/",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-15",
+    "title": "Applied Tableau Foundations",
+    "skill": "Tableau",
+    "duration_hours": 20,
+    "url": "https://www.tableau.com/learn/training",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-16",
+    "title": "Applied Git Foundations",
+    "skill": "Git",
+    "duration_hours": 24,
+    "url": "https://git-scm.com/docs/gittutorial",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-17",
+    "title": "Applied Python Practitioner",
+    "skill": "Python",
+    "duration_hours": 12,
+    "url": "https://docs.python.org/3/tutorial/",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-18",
+    "title": "Applied SQL Practitioner",
+    "skill": "SQL",
+    "duration_hours": 16,
+    "url": "https://www.postgresql.org/docs/current/tutorial.html",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-19",
+    "title": "Applied AWS Practitioner",
+    "skill": "AWS",
+    "duration_hours": 20,
+    "url": "https://skillbuilder.aws/",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-20",
+    "title": "Applied Machine Learning Practitioner",
+    "skill": "Machine Learning",
+    "duration_hours": 24,
+    "url": "https://scikit-learn.org/stable/getting_started.html",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-21",
+    "title": "Applied NLP Practitioner",
+    "skill": "NLP",
+    "duration_hours": 12,
+    "url": "https://huggingface.co/learn/nlp-course/chapter1/1",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-22",
+    "title": "Applied RAG Practitioner",
+    "skill": "RAG",
+    "duration_hours": 16,
+    "url": "https://python.langchain.com/docs/tutorials/rag/",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-23",
+    "title": "Applied Docker Practitioner",
+    "skill": "Docker",
+    "duration_hours": 20,
+    "url": "https://docs.docker.com/get-started/",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-24",
+    "title": "Applied FastAPI Practitioner",
+    "skill": "FastAPI",
+    "duration_hours": 24,
+    "url": "https://fastapi.tiangolo.com/tutorial/",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  },
+  {
+    "id": "TRN-25",
+    "title": "Applied React Practitioner",
+    "skill": "React",
+    "duration_hours": 12,
+    "url": "https://react.dev/learn",
+    "provider": "Official learning resource",
+    "catalog_status": "curated_link"
+  }
+]

@@ -1,0 +1,38 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: talentflow
+      POSTGRES_USER: talentflow
+      POSTGRES_PASSWORD: talentflow
+    ports: ["5432:5432"]
+    volumes: ["talentflow_data:/var/lib/postgresql/data"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U talentflow -d talentflow"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+  api:
+    build: .
+    environment:
+      DATABASE_URL: postgresql+psycopg://talentflow:talentflow@db:5432/talentflow
+      OLLAMA_API_KEY: ${OLLAMA_API_KEY:-}
+      OLLAMA_CLOUD_MODEL: ${OLLAMA_CLOUD_MODEL:-gpt-oss:20b-cloud}
+      RAG_MODEL: ${RAG_MODEL:-intfloat/multilingual-e5-small}
+      RAG_DENSE_ENABLED: ${RAG_DENSE_ENABLED:-true}
+      RAG_LOCAL_FILES_ONLY: ${RAG_LOCAL_FILES_ONLY:-true}
+      RAG_DENSE_WEIGHT: ${RAG_DENSE_WEIGHT:-0.75}
+      RAG_MIN_SCORE: ${RAG_MIN_SCORE:-0.18}
+    ports: ["8765:8765"]
+    depends_on:
+      db:
+        condition: service_healthy
+  web:
+    build: ./frontend
+    environment:
+      VITE_API_URL: /api
+      VITE_API_PROXY_TARGET: http://api:8765
+    ports: ["5173:5173"]
+    depends_on: [api]
+volumes:
+  talentflow_data:

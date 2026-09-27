@@ -1,0 +1,18 @@
+.tabs button {
+  background: #eef2ec;
+  color: #446057;
+  border: 1px solid #dce4dc;
+}
+
+.tabs button.selected {
+  background: #d8ff62;
+  color: #173b32;
+  border-color: #d8ff62;
+  box-shadow: 0 0 0 2px #173b3214;
+}
+
+.directory-status {
+  color: #66786e;
+  font-size: 12px;
+  margin: 8px 0;
+}

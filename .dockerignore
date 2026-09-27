@@ -1,0 +1,15 @@
+.deps
+.venv
+.git
+.github
+.pytest_cache
+.pnpm-store
+frontend/node_modules
+frontend/dist
+__pycache__
+*.pyc
+talentflow.db
+.env
+.env.*
+.doc_review
+.codex_review
